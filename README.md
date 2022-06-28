@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **A vast topic - Codeing**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... raghunandan.yadav@greatlearning.in
-- Comfortable with JavaScript,Ruby, Python, HTML, CSS
+- Comfortable with JavaScript,TypeScript,Ruby, Python, HTML, CSS
 - Library - Redux, Bootstrap
 - Framework - Ruby on Rails, ReactJs
 - Testing Framework - Cypress, selenium(Capybara,Cucumber), Testcafe, Rspec
