@@ -6,7 +6,7 @@
 - Comfortable with JavaScript,TypeScript,Ruby, Python, HTML, CSS
 - Library - Redux, Bootstrap
 - Framework - Ruby on Rails, ReactJs
-- Testing Framework - Cypress, selenium(Capybara,Cucumber), Testcafe, Rspec
+- Testing Framework - Playwright, Cypress, selenium(Capybara,Cucumber), Testcafe, Rspec
 
 <!---
 Raghu-GreatLearning/Raghu-GreatLearning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
