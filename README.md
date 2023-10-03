@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... raghunandan.yadav@greatlearning.in
 - Comfortable with JavaScript,TypeScript,Ruby, Python, HTML, CSS
-- Library - Redux, Bootstrap
-- Framework - Ruby on Rails, ReactJs
+- Library - Redux, Bootstrap,Material UI, TamaGUI, 
+- Framework - Ruby on Rails, ReactJs, React Native, Redux Saga
 - Testing Framework - Playwright, Cypress, selenium(Capybara,Cucumber), Testcafe, Rspec
 
 <!---
